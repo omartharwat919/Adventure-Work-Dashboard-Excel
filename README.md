@@ -1,4 +1,4 @@
-# Adventure-Work-_Dashboard_Excel
+# Adventure Work Dashboard-Excel
 Interactive business dashboard for analyzing Adventure Works sales, customers, products, and performance insights using Excel.
 📊 Adventure Works Dashboard
 
