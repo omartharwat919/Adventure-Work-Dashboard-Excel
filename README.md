@@ -1,5 +1,5 @@
 # Adventure-Work-_Dashboard_Excel
-Interactive business dashboard for analyzing Adventure Works sales, customers, products, and performance insights using Power BI.
+Interactive business dashboard for analyzing Adventure Works sales, customers, products, and performance insights using Excel.
 📊 Adventure Works Dashboard
 
 An analytical dashboard project designed to visualize and explore business data from the classic Adventure Works dataset.
